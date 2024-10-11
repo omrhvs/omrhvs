@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Rust, SpringBoot, npm, python, sass and docker.**
 
-- ⚡ Fun fact **I always listen to music to inspire myself.**
+- ⚡ Fun fact **I enjoy always listening to Music, enjoying Graphic Design, Gaming and Photography.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
